@@ -1,6 +1,3 @@
-# nlw-copa-2022
-Projeto criado durante a semana NLW da Rocketseat (bolão da Copa do Mundo 2022).
-
 <p align="center">
   <img alt="NLW Copa" src=".github/logo.svg" />
 </p>
@@ -47,12 +44,4 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat">👉 Participe da nossa comunidade 👈</a>
-</p>
 
