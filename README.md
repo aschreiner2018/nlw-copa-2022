@@ -27,7 +27,7 @@ Em todos os projetos, ao acessar a pasta, é preciso baixar os pacotes com o ger
 
 Acesse a documentação de cada projeto:
 
-- [Backend](./server/README.md)
+- [Backend](./api/README.md)
 - [Web](./web/README.md)
 - [Mobile](./mobile/README.md)
 
